@@ -6,7 +6,7 @@ fun main() {
     println(factorial(a))
 }
 
-fun factorial(a : Int) : Int {
-    if (a == 0 || a == 1) return 1
-    return factorial(a - 1) * a
-}
+//fun factorial(a : Int) : Int {
+//    if (a == 0 || a == 1) return 1
+//    return factorial(a - 1) * a
+//}
